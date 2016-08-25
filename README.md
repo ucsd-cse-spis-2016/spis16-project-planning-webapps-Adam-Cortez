@@ -1,6 +1,6 @@
 # Names, Area, Mentor
 
-Cortez P., Adam S., Webapps, Mentor:Yvonne
+Cortez P., Adam S., Webapps, Mentor : Yvonne
 
 # Brief Description
 
