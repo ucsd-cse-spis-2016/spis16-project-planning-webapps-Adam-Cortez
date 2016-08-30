@@ -10,8 +10,8 @@ We plan to create a note taking web app.
 
 **bold** = completed
 
-**1. Type a note (not saved).**
-**2. Login through Github.**
+1. Type a note (not saved).
+2. Login through Github.
 3. Have a list of notes (not saved).
 4. Save notes to account.
 5. Search for notes.
